@@ -1,0 +1,12 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"ColdFusion",
+		"Package Control",
+		"RemoteOpen"
+	]
+}

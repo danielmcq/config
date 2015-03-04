@@ -1,0 +1,43 @@
+{
+	"user":
+	{
+		"debug": false,
+		"gutter_theme": "",
+		"linters":
+		{
+			"javac":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"lint": ""
+			},
+			"json":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"strict": true
+			},
+			"xmllint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		},
+		"mark_style": "outline"
+	}
+}
