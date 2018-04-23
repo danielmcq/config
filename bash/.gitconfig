@@ -1,0 +1,9 @@
+[alias]
+    ch = checkout
+    pl = pull
+    ftp = fetch -tp
+    dfw = diff -w
+    dfcw = diff -cw
+    s = !git branch -vvv && git status
+    b = branch
+    cm = commit -m
